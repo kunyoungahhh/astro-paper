@@ -4,8 +4,8 @@ export const SITE: Site = {
   website: "https://kunyoungahhh.netlify.app/", // replace this with your deployed domain
   author: "Kunyoung Jung",
   profile: "https://kunyoungahhh.netlify.app/",
-  desc: "Kunyoung Jung",
-  title: "Kunyoung Jung",
+  desc: "Welcome to My Page",
+  title: "Kunyoung Jung's Page",
   ogImage: "https://avatars.githubusercontent.com/u/53654180?v=4",// "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
