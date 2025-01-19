@@ -1,12 +1,12 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
-  ogImage: "astropaper-og.jpg",
+  website: "https://kunyoungahhh.netlify.app/", // replace this with your deployed domain
+  author: "Kunyoung Jung",
+  profile: "https://kunyoungahhh.netlify.app/",
+  desc: "Kunyoung Jung's Webpage",
+  title: "Kunyoung Jung's Webpage",
+  ogImage: "https://avatars.githubusercontent.com/u/53654180?v=4",// "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 3,
@@ -34,31 +34,31 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/kunyoungahhh",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
   {
     name: "Facebook",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://facebook.com/",
     linkTitle: `${SITE.title} on Facebook`,
-    active: true,
+    active: false,
   },
   {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/kunyoungahhh",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
   {
     name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://linkedin.com/kunyoungjung",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "mailto:kunyoungahhh@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
     active: false,
   },
