@@ -4,8 +4,8 @@ export const SITE: Site = {
   website: "https://kunyoungahhh.netlify.app/", // replace this with your deployed domain
   author: "Kunyoung Jung",
   profile: "https://kunyoungahhh.netlify.app/",
-  desc: "Kunyoung Jung's Webpage",
-  title: "Kunyoung Jung's Webpage",
+  desc: "Kunyoung Jung",
+  title: "Kunyoung Jung",
   ogImage: "https://avatars.githubusercontent.com/u/53654180?v=4",// "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -46,13 +46,13 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Instagram",
-    href: "https://github.com/kunyoungahhh",
+    href: "https://instagram.com/kunyoungahhh",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
   {
     name: "LinkedIn",
-    href: "https://linkedin.com/kunyoungjung",
+    href: "https://www.linkedin.com/in/kunyoungjung",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
