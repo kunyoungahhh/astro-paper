@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About Me"
 ---
 Hello!
 My name is Kunyoung Jung.
